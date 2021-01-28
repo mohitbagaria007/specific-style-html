@@ -1,0 +1,98 @@
+h1 { 
+    color: blue; 
+    font-size: 35px; 
+    border: solid; 
+   border-color: red;
+background-color: seagreen; 
+width: 130px; 
+}  
+h4 { 
+    color: blue; 
+    font-size: 50px; 
+    border: solid; 
+    border-color: chartreuse; 
+    background-color: crimson; 
+    width: 150px;
+} 
+*{ 
+    background-color: silver; 
+    font-size: 20px;  
+    color: darkblue;
+    
+}
+ img { 
+     border: solid; 
+     border-color: skyblue; 
+     border-width: 4px; 
+     border-radius: 4px;
+ } 
+ .p { 
+     border: solid; 
+     border-color: blue; 
+     border-radius: 7px;
+ } 
+ .b { 
+     border: solid;
+     border-color: brown; 
+     border-radius: 7px;
+ } 
+ .s { 
+     border: solid; 
+    border-color: midnightblue; 
+    border-radius: 7px;
+} 
+.pa { 
+    border: solid; 
+    border-color: orange; 
+    border-radius: 7px;
+}
+.pb { 
+    border: solid; 
+    border-color: orchid; 
+    border-radius: 7px;
+} 
+.d { 
+    border: solid; 
+    border-color: powderblue ; 
+    border-radius: 7px;
+} 
+.r { 
+    border: solid; 
+    border-color: rebeccapurple; 
+    border-radius: 7px;
+}
+.pan{ 
+    border: solid; 
+    border-color: seagreen; 
+    border-radius: 7px;
+} 
+.b { 
+    border: solid; 
+    border-color: steelblue; 
+    border-radius: 7px;
+} 
+.n { 
+    border: solid; 
+    border-color: white ; 
+    border-radius: 7px;
+} 
+.ff{ 
+    border: solid; 
+    border-color: wheat; 
+    border-radius: 7px;
+} 
+.sp { 
+    border: solid; 
+    border-color: whitesmoke; 
+    border-radius: 7px;
+} 
+.bd { 
+    border: solid; 
+    border-color: yellow; 
+    border-radius: 7px;
+} 
+.bt {  
+    border: solid; 
+    border-color: yellowgreen; 
+    border-radius: 7px;
+}
